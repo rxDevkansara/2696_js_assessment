@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins',sans-serif;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: rgb(243 243 243);
+}
+.App{
+  max-width: 900px;
+  width: 100%;
+  background-color: #fff;
+  margin: 25px 30px;
+  border-radius: 5px;
+}
+
+#root{
+  background-color: none;
+  background-color: rgb(243 243 243);
+
+}
